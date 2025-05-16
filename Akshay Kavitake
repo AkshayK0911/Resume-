@@ -1,1 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Akshay Kavitake - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 5px;
+    }
+    h2 {
+      font-size: 22px;
+      margin-top: 30px;
+      border-bottom: 1px solid #ccc;
+    }
+    ul {
+      margin-top: 5px;
+    }
+    .contact {
+      margin-bottom: 20px;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
 
+  <h1>Akshay Kavitake</h1>
+  <p><strong>QA Engineer</strong></p>
+  <div class="contact">
+    <p>Email: <a href="mailto:akshaykavitake2@gmail.com">akshaykavitake2@gmail.com</a></p>
+    <p>Phone: +91 8208119245</p>
+    <p>Location: Pune, 411044</p>
+    <p>GitHub: <a href="https://github.com/AkshayK0911/MavenAutomationProject">AkshayK</a></p>
+  </div>
+
+  <div class="section">
+    <h2>Summary</h2>
+    <p>Senior QA Engineer with 4.3+ years of experience in Manual, Automation, API, and Database Testing across domains like Healthcare, Education, E-Commerce, Telecom, and Manufacturing.</p>
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li>Manual and Automation Testing (Selenium - Java, TestNG, Maven)</li>
+      <li>API Testing using Postman (with scripting and data-driven testing)</li>
+      <li>Load and Performance Testing</li>
+      <li>Database Testing: MySQL, Microsoft SQL Server</li>
+      <li>Bug Tracking and Test Management: Azure DevOps, JIRA, Zephyr Scale, TestRail</li>
+      <li>Basic knowledge of Jenkins for CI/CD</li>
+      <li>Understanding of SDLC, STLC, Agile Scrum methodology</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Work Experience</h2>
+
+    <h3>Senior QA Engineer – Groovy Technoweb Pvt. Ltd., Ahmedabad</h3>
+    <p><em>Nov 2023 – Present</em></p>
+    <ul>
+      <li>Automation using Selenium (Java, TestNG), Maven</li>
+      <li>API Testing via Postman with load simulation</li>
+      <li>Backend validation using MS SQL Server</li>
+      <li>Active participation in Agile ceremonies and client demos</li>
+      <li>Led QA team, reviewed scripts, and conducted knowledge sharing</li>
+    </ul>
+
+    <h3>Test Engineer – Arthat Business Solutions Pvt. Ltd., Pune</h3>
+    <p><em>Mar 2021 – Oct 2023</em></p>
+    <ul>
+      <li>Worked across projects using Manual and Automation Testing</li>
+    </ul>
+
+    <p><strong>Note:</strong> Worked in Non-IT industry from 2018 to 2021.</p>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <p><strong>Bachelor of Engineering</strong></p>
+    <p>Karmaveer Bhaurao Patil College of Engineering, Satara<br>
+       Shivaji University, Kolhapur<br>
+       Aggregate: 69.23% (Jul 2014 – May 2018)</p>
+  </div>
+
+  <div class="section">
+    <h2>Projects</h2>
+    <h3>DM Clinical Research (Healthcare Domain) – Houston, Texas</h3>
+    <p>Led QA across web and mobile platforms with focus on test planning, automation, API, and DB validation.</p>
+    <ul>
+      <li>ATOM – Advanced Trail Optimization & Management</li>
+      <li>CRIO – Clinical Research.io</li>
+      <li>Optimus – Patient Visit Optimization</li>
+      <li>Comtrack – Communication and Tracking System</li>
+      <li>HCP Mobile App – Patient referral system</li>
+      <li>DM Clinical Research – Corporate Portal</li>
+    </ul>
+    <p>Links:
+      <a href="https://atom.dmclinical.com/">ATOM</a>,
+      <a href="https://app.clinicalresearch.io/login">CRIO</a>,
+      <a href="https://optimus.dmclinical.com/">Optimus</a>,
+      <a href="https://comtrak.dmclinical.com/homepage">Comtrak</a>,
+      <a href="https://www.dmclinicalresearch.com/">DM Clinical</a>
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Certifications</h2>
+    <ul>
+      <li>Software Testing Training [Manual and Automation] – Radiant IT Services</li>
+      <li>Agile Methodology Virtual Program – Cognizant USA</li>
+      <li>Agile and Scrum Fundamentals with JIRA – The Testing Academy</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Soft Skills</h2>
+    <ul>
+      <li>Excellent communication and teamwork</li>
+      <li>Quick adaptability and flexibility</li>
+      <li>Strong problem-solving skills</li>
+      <li>Efficient multitasking and collaboration</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Personal Details</h2>
+    <ul>
+      <li><strong>Date of Birth:</strong> 09th November 1996</li>
+      <li><strong>Nationality:</strong> Indian</li>
+      <li><strong>Languages:</strong> English, Hindi, Marathi</li>
+      <li><strong>Current Location:</strong> Pune, 411044</li>
+    </ul>
+  </div>
+
+</body>
+</html>
