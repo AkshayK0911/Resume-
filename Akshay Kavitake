@@ -81,20 +81,13 @@
     <h3>DM Clinical Research (Healthcare Domain) – Houston, Texas</h3>
     <p>Led QA across web and mobile platforms with focus on test planning, automation, API, and DB validation.</p>
     <ul>
-      <li>ATOM – Advanced Trail Optimization & Management</li>
-      <li>CRIO – Clinical Research.io</li>
-      <li>Optimus – Patient Visit Optimization</li>
-      <li>Comtrack – Communication and Tracking System</li>
-      <li>HCP Mobile App – Patient referral system</li>
-      <li>DM Clinical Research – Corporate Portal</li>
-    </ul>
-    <p>Links:
-      <a href="https://atom.dmclinical.com/">ATOM</a>,
-      <a href="https://app.clinicalresearch.io/login">CRIO</a>,
-      <a href="https://optimus.dmclinical.com/">Optimus</a>,
-      <a href="https://comtrak.dmclinical.com/homepage">Comtrak</a>,
-      <a href="https://www.dmclinicalresearch.com/">DM Clinical</a>
-    </p>
+  <li><a href="https://atom.dmclinical.com/">ATOM</a> – Advanced Trail Optimization & Management</li>
+  <li><a href="https://app.clinicalresearch.io/login">CRIO</a> – Clinical Research.io</li>
+  <li><a href="https://optimus.dmclinical.com/">Optimus</a> – Patient Visit Optimization</li>
+  <li><a href="https://comtrak.dmclinical.com/homepage">Comtrak</a> – Communication and Tracking System</li>
+  <li><a href="https://www.dmclinicalresearch.com/">HCP Mobile App</a> – Patient referral system</li>
+  <li><a href="https://www.dmclinicalresearch.com/">DM Clinical Research</a> – Corporate Portal</li>
+   </ul>
   </div>
 
   <div class="section">
