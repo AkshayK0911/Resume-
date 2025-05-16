@@ -4,67 +4,17 @@
   <meta charset="UTF-8">
   <title>Akshay Kavitake</title>
   <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 40px;
-      line-height: 1.6;
-      background-color: #ffffff;
-      color: #2c3e50;
-    }
+  body {
+    font-family: 'Calibri', sans-serif;
+    margin: 40px;
+    line-height: 1.6;
+    background-color: #ffffff;
+    color: #2c3e50;
+  }
 
-    h1 {
-      font-size: 32px;
-      color: #0b355d;
-      margin-bottom: 5px;
-    }
-
-    h2 {
-      font-size: 24px;
-      color: #0f4c81;
-      margin-top: 30px;
-      border-bottom: 2px solid #dcdcdc;
-      padding-bottom: 4px;
-    }
-
-    h3 {
-      color: #205375;
-      margin-top: 20px;
-    }
-
-    a {
-      color: #0073e6;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    p, li {
-      font-size: 16px;
-      color: #333;
-    }
-
-    ul {
-      margin-top: 5px;
-      padding-left: 20px;
-    }
-
-    .contact {
-      margin-bottom: 25px;
-    }
-
-    .section {
-      margin-bottom: 35px;
-    }
-
-    em {
-      color: #666;
-    }
-
-    strong {
-      color: #1a1a1a;
-    }
+  h1, h2, h3, p, li, a, em, strong {
+    font-family: 'Calibri', sans-serif;
+  }
   </style>
 </head>
 <body>
